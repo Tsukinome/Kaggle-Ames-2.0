@@ -1,5 +1,5 @@
-# House prices competition
-
+# Kaggle Ames 2.0
+.
 **Table of content:**
 * [About](#about)
 * [Technologies](#technologies)
